@@ -1,3 +1,3 @@
 <?php
 echo "Hello LINE BOT";
-var_dump($_POST)
+var_dump($_POST);
